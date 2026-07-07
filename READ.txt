@@ -1,0 +1,4 @@
+logo.png → 页面最顶部 RiNG 大 LOGO 图片
+bg.jpg → 上方场地风景大图
+user.jpg → 立希头像
+ring_logo.png → 证件底部 RiNG 小 LOGO
